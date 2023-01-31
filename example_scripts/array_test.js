@@ -20,8 +20,19 @@ const myArr = [
             street: "the street",
             postcode: "AA1 1AA"
         },
+        strItems: [
+            "test1",
+            "test2"
+        ],
+        numItems: [
+            1,
+            null,
+            2
+        ],
         emptyList: [],
-        emptyObj: {}
+        emptyObj: {},
+        nothing: null,
+        alsoNothing: undefined
     },
     {
         name: "test2",

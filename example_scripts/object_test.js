@@ -20,7 +20,9 @@ const myObj = {
         postcode: "AA1 1AA"
     },
     emptyList: [],
-    emptyObj: {}
+    emptyObj: {},
+    nothing: null,
+    alsoNothing: undefined
 };
 
 
